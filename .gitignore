@@ -15,10 +15,8 @@
 *.iws
 .idea/
 
-# The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
 # is commented out by default.
-#.vscode/
 
 # Flutter/Dart/Pub related
 **/doc/api/
@@ -88,3 +86,9 @@ android/app/.settings/org.eclipse.buildship.core.prefs
 android/app/.settings/org.eclipse.jdt.core.prefs
 android/app/google-services-dev.json
 android/app/google-services-pro.json
+lib/firebase_options.dart
+firebase.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
